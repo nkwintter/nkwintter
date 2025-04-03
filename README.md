@@ -58,14 +58,3 @@
 
 ###
 
-<h3 align="left">⚡Last Contribuitions</h3>
-
-###
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="" />
-  <source media="(prefers-color-scheme: light)" srcset="" />
-  <img src="https://raw.githubusercontent.com/NklsGremory/NklsGremory/output/snake.svg" alt="Snake animation" />
-</picture>
-
-
-###

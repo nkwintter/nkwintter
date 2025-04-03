@@ -64,7 +64,7 @@
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="" />
   <source media="(prefers-color-scheme: light)" srcset="" />
-  <img src="https://raw.githubusercontent.com/NklsGremory/NklsGremory/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NklsGremory/nkwintter/output/snake.svg" alt="Snake animation" />
 </picture>
 
 

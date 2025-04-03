@@ -55,17 +55,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<h3 align="left">⚡Last Contribuitions</h3>
-
-###
-<picture> 
-  <source media="(prefers-color-scheme: dark)" srcset="" />
-  <source media="(prefers-color-scheme: light)" srcset="" />
-  <img src="https://raw.githubusercontent.com/NklsGremory/nkwintter/output/snake.svg" alt="Snake animation" />
-</picture>
-
-
-###

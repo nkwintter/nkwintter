@@ -21,8 +21,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <img align="right" height="300" width = "200" src="https://github.com/user-attachments/assets/ec852e5e-b88a-49ef-8e8d-36c6a8dcd5a2" />
 <img width="250"/>
 
@@ -54,4 +52,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://flet.dev/img/logo.svg" height="40" alt="flet(framework) logo" />
+  <img width="12" />
+  <img src="https://www.blockbench.net/images/logos/icon.png" height="40" alt="blockbench logo" />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/11636003/52592268-3eefc480-2e46-11e9-8a94-abf114ed4577.png" height="40" alt="pico-8 logo" />
+  <img width="12" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1024px-Logo_Aseprite.svg.png?20231108191228" height="40" alt="aseprite logo" />
+  <img width="12" />
+  
 </div>

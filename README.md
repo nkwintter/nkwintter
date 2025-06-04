@@ -11,6 +11,7 @@
   <a href="https://www.instagram.com/nkls._.gremory/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+
 </div>
 
 ###
@@ -21,8 +22,8 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<img align="right" height="300" width = "200" src="https://github.com/user-attachments/assets/ec852e5e-b88a-49ef-8e8d-36c6a8dcd5a2" />
-<img width="250"/>
+<img align="right" height="350" width = "350" src="https://github.com/user-attachments/assets/c97f001a-07a8-4de2-98db-75d5e721c67c" />
+<img width="350"/>
 
 ###
 

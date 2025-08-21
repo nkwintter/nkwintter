@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">⚡ Hey, I'm Nikolas Wintter, an 18-year-old junior programmer passionate about technology and software development.<br><br>⚙ I am very familiar with Python and have worked on some projects using this language. I have limited experience in back-end development, mainly with databases such as PostgreSQL and MySQL. However, I have knowledge of front-end technologies, including HTML, CSS, and JavaScript. I have also studied a bit of Arduino and created a simple project for temperature control, as well as having brief knowledge of Raspberry Pi.<br><br>🎓 I have a Technical degree in Systems Development and am currently looking for an internship opportunity to apply and expand my knowledge.<br><br>🎯 I am always looking to learn something new and contribute to innovative projects. Let's connect and share knowledge!</p>
+<p align="left">⚡ Hey, I'm Nikolas Wintter, an 19-year-old junior programmer passionate about technology and software development.<br><br>⚙ I am very familiar with Python and have worked on some projects using this language. I have limited experience in back-end development, mainly with databases such as PostgreSQL and MySQL. However, I have knowledge of front-end technologies, including HTML, CSS, and JavaScript. I have also studied a bit of Arduino and created a simple project for temperature control, as well as having brief knowledge of Raspberry Pi.<br><br>🎓 I have a Technical degree in Systems Development and am currently looking for an internship opportunity to apply and expand my knowledge.<br><br>🎯 I am always looking to learn something new and contribute to innovative projects. Let's connect and share knowledge!</p>
 
 ###
 
